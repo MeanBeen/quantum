@@ -1,6 +1,6 @@
 import React from "react";
 import { Layout, Image, Button, Space, Row, Col } from "antd";
-import { Styledpopover } from "./style";
+import { StyledText, Styledpopover } from "./style";
 
 const { Content } = Layout;
 
@@ -26,6 +26,9 @@ const Navbar = () => {
               <Button href="User">Important Publications</Button>
             </Styledpopover>
           </Space>
+        </Col>
+        <Col>
+          <StyledText>Max</StyledText>
         </Col>
       </Row>
     </Content>

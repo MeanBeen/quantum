@@ -9,7 +9,12 @@ const Navbar = () => {
     <Content>
       <Row align={"middle"} justify={"space-between"}>
         <Col>
-          <Image preview={false} width={100} src="/logo.png" alt="logo" />
+          <Image
+            preview={false}
+            width={100}
+            src="https://i.ibb.co/G0DxRRW/Screenshot-2024-05-07-170336.png"
+            alt="logo"
+          />
         </Col>
         <Col>
           <Space wrap>

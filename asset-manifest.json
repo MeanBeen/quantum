@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/quantum/static/js/main.17167fd1.js",
+    "main.js": "/quantum/static/js/main.7a759fc9.js",
     "index.html": "/quantum/index.html",
-    "main.17167fd1.js.map": "/quantum/static/js/main.17167fd1.js.map"
+    "main.7a759fc9.js.map": "/quantum/static/js/main.7a759fc9.js.map"
   },
   "entrypoints": [
-    "static/js/main.17167fd1.js"
+    "static/js/main.7a759fc9.js"
   ]
 }
